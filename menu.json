@@ -1,0 +1,52 @@
+{
+    "items": [
+        {
+            "name": "Screensaver Manager",
+            "priority": 100,
+            "items": [
+                {
+                    "name": "3. Обновить скринсейверы",
+                    "priority": 1,
+                    "action": "bin/screensaver-update.sh",
+                    "exitmenu": true
+                },
+                {
+                    "name": "4. Восстановить бэкап",
+                    "priority": 2,
+                    "action": "bin/uninstall.sh",
+                    "exitmenu": true
+                },
+                {
+                    "name": "2. Создать бэкап",
+                    "priority": 3,
+                    "action": "bin/install.sh",
+                    "exitmenu": true
+                },
+                {
+                    "name": "1. Отключить Рекламу",
+                    "priority": 5,
+                    "action": "bin/ss_fix_install.sh",
+                    "exitmenu": false
+                },
+                {
+                    "name": "5. Включить Рекламу",
+                    "priority": 6,
+                    "action": "bin/ss_fix_uninstall.sh",
+                    "exitmenu": false
+                },
+                {
+                    "name": "6. Об Авторе",
+                    "priority": 7,
+                    "items": [
+                        {
+                            "name": "Автор",
+                            "priority": 4,
+                            "action": "bin/about.sh",
+                            "exitmenu": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
