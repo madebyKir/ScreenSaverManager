@@ -1,6 +1,6 @@
 #!/bin/sh
 # 
-SCREENS_DIR="/mnt/us/extensions/ScreensaverManager/screens"
+SCREENS_DIR="/mnt/us/extensions/ScreenSaverManager/screens"
 SYSTEM_SCREENSAVER_DIR="/usr/share/blanket/screensaver"
 
 echo "=== Замена скринсейверов ==="
