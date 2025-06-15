@@ -23,8 +23,8 @@ $FBINK -x $X -y 21 "║     ScreenSaverManager      ║"
 $FBINK -x $X -y 22 "║           Author:           ║"
 $FBINK -x $X -y 23 "║         @Shalom_Kir         ║"
 $FBINK -x $X -y 24 "║        @made_by_Kir         ║"
-$FBINK -x $X -y 25 "║        Version: 2.0         ║"
-$FBINK -x $X -y 26 "║   Release date 17.04.2025   ║"
+$FBINK -x $X -y 25 "║        Version: 2.1         ║"
+$FBINK -x $X -y 26 "║   Release date 16.06.2025   ║"
 # Низ рамки
 $FBINK -x $X -y 27 "╚═════════════════════════════╝"
 
