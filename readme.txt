@@ -1,6 +1,6 @@
 **Screensaver Manager для Kindle** 
 Автор: TG @Shalom_Kir, @Made.by.Kir
-Версия: 2.0
+Версия: 2.1
 Поддержка: Проверено Kindle 11 (2022, KT5, C2V2L3), прошивка 5.17.1.0.3 с WinterBreak
 Подготовлена web-страница для создания Ваших заставок в популярных разрешениях 
 https://madebykir.github.io/kindle_custom_ScreenSaver/
